@@ -1,0 +1,1 @@
+# entity-dto-mapping-patterns
